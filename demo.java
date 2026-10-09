@@ -5,7 +5,7 @@ public class demo {
 
         
 
-             t.printText();
+          
 
     }
 }
