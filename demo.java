@@ -6,5 +6,7 @@ public class demo {
              text t = new text();
 
 
+             t.printText();
+
     }
 }
