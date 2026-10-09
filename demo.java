@@ -4,6 +4,7 @@ public class demo {
         System.out.println("Hello, Techiefit!");
 
         System.out.println("Hello, Text!"); 
+        System.out.println("Hello, Text!"); 
 
           
 
