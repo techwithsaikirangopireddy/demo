@@ -5,6 +5,8 @@ public class demo {
 
         System.out.println("testing from feature/feature dummy data");
 
+        System.out.println("testing from feature/feature dummy data");
+
         System.out.println("testing from feature/testing");
     }
 }
