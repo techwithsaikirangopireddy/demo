@@ -8,6 +8,6 @@ public class demo {
        System.out.println("testing from feature branch 3 commit");
        System.out.println("testing from feature branch 4 commit");
        System.out.println("testing from feature branch 5 commit");
-       System.out.println("testing from feature branch 6 commit");
+       System.out.println("testing from feature branch local changes 6 commit");
     }
 }
