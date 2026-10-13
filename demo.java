@@ -10,5 +10,7 @@ public class demo {
        System.out.println("testing from feature branch 5 commit");
        System.out.println("testing from feature branch local changes 6 commit");
      testing
+
+         testing
     }
 }
